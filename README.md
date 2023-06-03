@@ -1,1 +1,3 @@
 # Cryptology
+
+## Variant 1
